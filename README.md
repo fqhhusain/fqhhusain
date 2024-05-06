@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Languages
-https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg
+- C
+- C++
+
