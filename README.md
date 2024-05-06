@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="left">Languages and Tools:</h3>
-- C
-- C++
+- C/C++
 
 
