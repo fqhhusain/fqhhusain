@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">Languages and Tools:</h3>
 - C/C++
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fqhhusain)](https://git.io/streak-stats)
 
 
