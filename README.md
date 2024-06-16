@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ## Profile
 
-kaggle : https://www.kaggle.com/fqhhusain
-
-GoogleSkillBoost :https://www.cloudskillsboost.google/public_profiles/944588fd-d336-4a18-94be-6e49740e8933
+### Data/AI
+- kaggle : https://www.kaggle.com/fqhhusain
+- GoogleSkillBoost :https://www.cloudskillsboost.google/public_profiles/944588fd-d336-4a18-94be-6e49740e8933
 
 ### Competitive Programming
 - Leetcode : https://leetcode.com/u/fqhhusain/
