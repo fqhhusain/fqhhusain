@@ -35,7 +35,7 @@ hii? call me ✨faqih✨
 ### Competitive Programming
 - Leetcode : https://leetcode.com/u/fqhhusain/
 - Tlx : https://tlx.toki.id/profiles/fqhhusain
-
+- OSN : https://osn.toki.id/OSN2022/hasil
 
 
 
