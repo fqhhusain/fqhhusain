@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-hii? call me faqih
+hii? call me ✨faqih✨
 
 🌱 I’m currently learning python for data analytics 
 
