@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 hii? call me ✨faqih✨
 
-I am a student in the Information Technology Department at Institut Teknologi Sepuluh Nopember, with a deep interest in Machine Learning and Artificial Intelligence.
+I am Information Technology Student at Sepuluh Nopember Institute of Technology, with a deep interest in Machine Learning and Artificial Intelligence.
 
 🌱 I’m currently learning python for data analytics 
 
