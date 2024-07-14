@@ -18,7 +18,7 @@ hii? call me ✨faqih✨
 I am Information Technology Student at Sepuluh Nopember Institute of Technology, with a deep interest in Machine Learning and Artificial Intelligence.
 
 #📫 How to reach me: ...
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 fqhhusain@gmail.com
 
 I'm also on.. 
