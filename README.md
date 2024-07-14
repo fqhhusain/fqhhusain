@@ -40,9 +40,7 @@ I am Information Technology Student at Sepuluh Nopember Institute of Technology,
 ## Profile
 
 ### Data/AI
-https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white
-- https://www.kaggle.com/fqhhusain
-- GoogleSkillBoost :https://www.cloudskillsboost.google/public_profiles/944588fd-d336-4a18-94be-6e49740e8933
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/fqhhusain)
 
 ### Competitive Programming
 - Leetcode : https://leetcode.com/u/fqhhusain/
