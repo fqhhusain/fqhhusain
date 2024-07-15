@@ -29,6 +29,7 @@ I'm also on..
 - Tlx : https://tlx.toki.id/profiles/fqhhusain
 - OSN : https://osn.toki.id/OSN2022/hasil
 
-[](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+### OS
+![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 
