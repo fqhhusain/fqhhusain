@@ -33,4 +33,7 @@ I'm also on..
 ![kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![vmware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 
+![5e02df0c54ebfc3f76969e89e49f6d4b](https://github.com/user-attachments/assets/1743755c-1d80-4268-8736-99ea63de193b)
+
+
 
