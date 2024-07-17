@@ -25,6 +25,10 @@ I'm also on..
 ### Software
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
+### IDE
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
 ### Competitive Programming
 - Tlx : https://tlx.toki.id/profiles/fqhhusain
 - OSN : https://osn.toki.id/OSN2022/hasil
