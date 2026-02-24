@@ -8,6 +8,7 @@
 - https://nodeguardians.io/character/dailycisea
 - https://www.rustfinity.com/profile/fqhhusain
 - https://tlx.toki.id/profiles/fqhhusain
+- https://starklings.app/graduates
 
 ## things i do
-- https://github.com/fqhhusain/crypto-py
+- https://github.com/fqhhusain/crypto-py 
