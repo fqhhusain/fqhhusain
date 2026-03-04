@@ -13,3 +13,4 @@
 ## things i do
 - https://github.com/fqhhusain/crypto-py
 - https://github.com/fqhhusain/crypto-sage
+- https://github.com/fqhhusain/crypto-rs
