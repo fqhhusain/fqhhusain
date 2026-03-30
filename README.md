@@ -13,7 +13,7 @@
 - https://tlx.toki.id/profiles/fqhhusain
 - https://starklings.app/graduates
 
-## things i do
+## Implementing Cryptography
 - https://github.com/fqhhusain/crypto-py
 - https://github.com/fqhhusain/crypto-sage
 - https://github.com/fqhhusain/crypto-rs
