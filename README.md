@@ -17,3 +17,6 @@
 - https://github.com/fqhhusain/crypto-py
 - https://github.com/fqhhusain/crypto-sage
 - https://github.com/fqhhusain/crypto-rs
+
+## Exercise Notes
+- https://github.com/fqhhusain/zk-exercises
