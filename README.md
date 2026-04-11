@@ -6,7 +6,7 @@
 - fqhhusain@gmail.com
 
 ## Where I Practice
-
+- https://github.com/fqhhusain/zero-knowledge-puzzles
 - https://cryptohack.org/user/kiseia/
 - https://nodeguardians.io/character/dailycisea
 - https://www.rustfinity.com/profile/fqhhusain
