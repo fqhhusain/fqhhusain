@@ -5,8 +5,7 @@
 ## How to reach me:
 - fqhhusain@gmail.com
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fqhhusain&layout=compact&theme=dracula&langs_count=8&hide=html)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fqhhusain)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Where I Practice
 - https://github.com/fqhhusain/zero-knowledge-puzzles
