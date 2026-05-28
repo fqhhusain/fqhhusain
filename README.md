@@ -19,3 +19,4 @@ Take a look at my [portfolio](https://dailycisea.mintlify.app/me/intro) and [Med
 - Zk-dsl : Noir, Circom, Cairo
 - Blockchain (Solana): Rust, Anchor Framework, Solana CLI
 - Blockchain (Ethereum/EVM): Solidity
+- other : data structure and algorithm
