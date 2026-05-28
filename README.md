@@ -1,8 +1,11 @@
-I'm implementing cryptography algorithms for practice in [Python](https://github.com/fqhhusain/crypto-py), [Sage](https://github.com/fqhhusain/crypto-sage), and [Rust](https://github.com/fqhhusain/crypto-rs). Take a look at my [portfolio](https://dailycisea.mintlify.app/me/intro) and [Medium](https://medium.com/@dailycisea), I usually write my articles there. You can reach me via [email](fqhhusain@gmail.com) or on [X](https://x.com/dailycisea).
+I'm implementing cryptography algorithms for practice in [Python](https://github.com/fqhhusain/crypto-py), [Sage](https://github.com/fqhhusain/crypto-sage), and [Rust](https://github.com/fqhhusain/crypto-rs). 
 
-## Where I Practice
+I also practice on [TryHackMe](https://tryhackme.com/p/dailycisea) and [CryptoHack](https://cryptohack.org/user/kiseia/)
+
+Take a look at my [portfolio](https://dailycisea.mintlify.app/me/intro) and [Medium](https://medium.com/@dailycisea), where i write my article and my [ZK Exercise Notes](https://github.com/fqhhusain/zk-exercises). You can reach me via [email](fqhhusain@gmail.com) or on [X](https://x.com/dailycisea).
+
+## Other place Where I Practice
 - https://github.com/fqhhusain/zero-knowledge-puzzles
-- https://cryptohack.org/user/kiseia/
 - https://nodeguardians.io/character/dailycisea
 - https://www.rustfinity.com/profile/fqhhusain
 - https://tlx.toki.id/profiles/fqhhusain
@@ -10,9 +13,6 @@ I'm implementing cryptography algorithms for practice in [Python](https://github
 
 ## Implementing ZK circuit
 - https://github.com/fqhhusain/circuit-circom
-
-## Exercise Notes
-- https://github.com/fqhhusain/zk-exercises
 
 ## Skill
 - Languages : Python (SageMath), Javascript, Rust, C / C++
