@@ -1,3 +1,5 @@
+I'm implementing cryptography algorithms for practice in [Python](https://github.com/fqhhusain/crypto-py), [Sage](https://github.com/fqhhusain/crypto-sage), and [Rust](https://github.com/fqhhusain/crypto-rs)
+
 ## Portfolio
 
 - https://dailycisea.mintlify.app/
@@ -12,11 +14,6 @@
 - https://www.rustfinity.com/profile/fqhhusain
 - https://tlx.toki.id/profiles/fqhhusain
 - https://starklings.app/graduates
-
-## Implementing Cryptography
-- https://github.com/fqhhusain/crypto-py
-- https://github.com/fqhhusain/crypto-sage
-- https://github.com/fqhhusain/crypto-rs
 
 ## Implementing ZK circuit
 - https://github.com/fqhhusain/circuit-circom
