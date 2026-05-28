@@ -9,8 +9,9 @@ Take a look at my [portfolio](https://dailycisea.mintlify.app/me/intro) and [Med
 [Node guardian](https://nodeguardians.io/character/dailycisea), [rustfinity](https://www.rustfinity.com/profile/fqhhusain), [tlx](https://tlx.toki.id/profiles/fqhhusain), [starkling](https://starklings.app/graduates)
 
 ## Skill
-- Languages : Python (SageMath), Javascript, Rust, C / C++
+- Languages : Python (SageMath), Javascript, Rust, C / C++, React, SQL
 - Zk-dsl : Noir, Circom, Cairo
 - Blockchain (Solana): Rust, Anchor Framework, Solana CLI
 - Blockchain (Ethereum/EVM): Solidity
+- Developer Tools: Git, GitHub, Docker
 - other : data structure and algorithm
