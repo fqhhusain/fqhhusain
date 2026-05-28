@@ -27,3 +27,5 @@
 ## Skill
 - Languages : Python (SageMath), Rust, C / C++
 - Zk-dsl : Noir, Circom, Cairo
+- Blockchain (Solana): Rust, Anchor Framework, Solana CLI
+- Blockchain (Ethereum/EVM): Solidity
