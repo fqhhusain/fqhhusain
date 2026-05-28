@@ -1,11 +1,4 @@
-I'm implementing cryptography algorithms for practice in [Python](https://github.com/fqhhusain/crypto-py), [Sage](https://github.com/fqhhusain/crypto-sage), and [Rust](https://github.com/fqhhusain/crypto-rs)
-
-## Portfolio
-
-- https://dailycisea.mintlify.app/
-
-## How to reach me:
-- fqhhusain@gmail.com
+I'm implementing cryptography algorithms for practice in [Python](https://github.com/fqhhusain/crypto-py), [Sage](https://github.com/fqhhusain/crypto-sage), and [Rust](https://github.com/fqhhusain/crypto-rs). Take a look at my [portfolio](https://dailycisea.mintlify.app/me/intro) and [Medium](https://medium.com/@dailycisea), I usually write my articles there. You can reach me via [email](fqhhusain@gmail.com) or on [X](https://x.com/dailycisea).
 
 ## Where I Practice
 - https://github.com/fqhhusain/zero-knowledge-puzzles
