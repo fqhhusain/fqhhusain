@@ -1,4 +1,4 @@
-I'm implementing cryptography algorithms for practice in [Python](https://github.com/fqhhusain/crypto-py), [Sage](https://github.com/fqhhusain/crypto-sage), and [Rust](https://github.com/fqhhusain/crypto-rs). 
+I'm implementing cryptography algorithms for practice in [Python](https://github.com/fqhhusain/crypto-py), [Sage](https://github.com/fqhhusain/crypto-sage), and [Rust](https://github.com/fqhhusain/crypto-rs).Alongside that, I'm writing ZK circuits in [Circom](https://github.com/fqhhusain/circuit-circom)
 
 I also practice on [CryptoHack](https://cryptohack.org/user/kiseia/), [TryHackMe](https://tryhackme.com/p/dailycisea), and [Hackthebox](https://profile.hackthebox.com/profile/019e23be-39e9-7047-a3c9-301cec102fb1)
 
@@ -7,9 +7,6 @@ Take a look at my [portfolio](https://dailycisea.mintlify.app/me/intro) and [Med
 ## Other place Where I Practice
 [rareskills zk puzzle](https://github.com/fqhhusain/zero-knowledge-puzzles), 
 [Node guardian](https://nodeguardians.io/character/dailycisea), [rustfinity](https://www.rustfinity.com/profile/fqhhusain), [tlx](https://tlx.toki.id/profiles/fqhhusain), [starkling](https://starklings.app/graduates)
-
-## Implementing ZK circuit
-- https://github.com/fqhhusain/circuit-circom
 
 ## Skill
 - Languages : Python (SageMath), Javascript, Rust, C / C++
