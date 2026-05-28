@@ -26,4 +26,4 @@
 
 ## Skill
 - Languages : Python (SageMath), Rust, C / C++
-- Zk-dsl : Noir, Circom
+- Zk-dsl : Noir, Circom, Cairo
