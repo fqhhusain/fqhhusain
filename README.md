@@ -25,5 +25,5 @@
 - https://github.com/fqhhusain/zk-exercises
 
 ## Skill
-- Languages : Python, Rust, C / C++
+- Languages : Python (SageMath), Rust, C / C++
 - Zk-dsl : Noir, Circom
