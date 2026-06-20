@@ -18,4 +18,4 @@ Take a look at my [portfolio](https://dailycisea.mintlify.app/me/intro) and [Med
 
 ## College final project
 - [Blockchain](https://github.com/azoraichiga/blockchain-project3-Kelompok7)
-- [Game](https://github.com/fqhhusain/nusavira)
+- Pengantar Pengembangan Game :[Nusavira](https://github.com/fqhhusain/nusavira)
