@@ -15,3 +15,7 @@ Take a look at my [portfolio](https://dailycisea.mintlify.app/me/intro) and [Med
 - Blockchain (Ethereum/EVM): Solidity
 - Developer Tools: Git, GitHub, Docker
 - other : data structure and algorithm
+
+## College final project
+- [Blockchain](https://github.com/azoraichiga/blockchain-project3-Kelompok7)
+- [Game](https://github.com/fqhhusain/nusavira)
