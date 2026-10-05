@@ -21,5 +21,5 @@ Take a look at my [portfolio](https://dailycisea.mintlify.app/me/intro) and [Med
 - Pengantar Pengembangan Game :[Nusavira](https://github.com/fqhhusain/nusavira)
 
 ## Probset CTF
-[JCC-2026/minimum](https://github.com/arsitektur-jaringan-komputer/jcc-2026/tree/master/jeopardy/Cryptography/minimum)
+[JCC-2026/minimum](https://github.com/arsitektur-jaringan-komputer/jcc-2026/tree/master/jeopardy/Cryptography/minimum) </br>
 [cybreak-2026/im unraveled](https://github.com/arsitektur-jaringan-komputer/cybreak-2026-ctf/tree/master/crypto/im-unraveled)
