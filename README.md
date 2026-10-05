@@ -6,15 +6,12 @@ Take a look at my [portfolio](https://dailycisea.mintlify.app/me/intro) and [Med
 
 ## Other place Where I Practice
 [rareskills zk puzzle](https://github.com/fqhhusain/zero-knowledge-puzzles), 
-[rustfinity](https://www.rustfinity.com/profile/fqhhusain), [tlx](https://tlx.toki.id/profiles/fqhhusain), [starkling](https://starklings.app/graduates)
+[rustfinity](https://www.rustfinity.com/profile/fqhhusain), [starkling](https://starklings.app/graduates)
 
 ## Skill
-- Languages : Python (SageMath), Javascript, Rust, C / C++, React, SQL
-- Zk-dsl : Noir, Circom, Cairo
+- Languages : Python (SageMath)
+- Zk-dsl : Circom
 - Blockchain (Solana): Rust, Anchor Framework, Solana CLI
-- Blockchain (Ethereum/EVM): Solidity
-- Developer Tools: Git, GitHub, Docker
-- other : data structure and algorithm
 
 ## College final project
 - [Blockchain](https://github.com/azoraichiga/blockchain-project3-Kelompok7)
