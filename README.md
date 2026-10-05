@@ -6,7 +6,7 @@ Take a look at my [portfolio](https://dailycisea.mintlify.app/me/intro) and [Med
 
 ## Other place Where I Practice
 [rareskills zk puzzle](https://github.com/fqhhusain/zero-knowledge-puzzles), 
-[Node guardian](https://nodeguardians.io/character/dailycisea), [rustfinity](https://www.rustfinity.com/profile/fqhhusain), [tlx](https://tlx.toki.id/profiles/fqhhusain), [starkling](https://starklings.app/graduates)
+[rustfinity](https://www.rustfinity.com/profile/fqhhusain), [tlx](https://tlx.toki.id/profiles/fqhhusain), [starkling](https://starklings.app/graduates)
 
 ## Skill
 - Languages : Python (SageMath), Javascript, Rust, C / C++, React, SQL
@@ -19,3 +19,7 @@ Take a look at my [portfolio](https://dailycisea.mintlify.app/me/intro) and [Med
 ## College final project
 - [Blockchain](https://github.com/azoraichiga/blockchain-project3-Kelompok7)
 - Pengantar Pengembangan Game :[Nusavira](https://github.com/fqhhusain/nusavira)
+
+## Probset CTF
+[JCC-2026/minimum](https://github.com/arsitektur-jaringan-komputer/jcc-2026/tree/master/jeopardy/Cryptography/minimum)
+[cybreak-2026/im unraveled](https://github.com/arsitektur-jaringan-komputer/cybreak-2026-ctf/tree/master/crypto/im-unraveled)
