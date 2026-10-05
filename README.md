@@ -10,6 +10,7 @@ Take a look at my [portfolio](https://dailycisea.mintlify.app/me/intro) and [Med
 - Pengantar Pengembangan Game :[Nusavira](https://github.com/fqhhusain/nusavira)
 
 ## Probset CTF
+[minictf-ucs](https://github.com/ucsits/2025-08-minictf-ucs/tree/main/Cryptography/Bittersweet)
 [HCS Intersec 2025](https://github.com/Heroes-Cyber-Security/2025-hcs-intersec-ctf/tree/main/Cryptography) </br>
 [FindIT/forgor](https://github.com/Find-IT-UGM/CTF-2026-Soal-Final/tree/main/Cryptography/forgor) </br>
 [JCC-2026/minimum](https://github.com/arsitektur-jaringan-komputer/jcc-2026/tree/master/jeopardy/Cryptography/minimum) </br>
