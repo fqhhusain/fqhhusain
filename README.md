@@ -15,3 +15,6 @@ Take a look at my [portfolio](https://dailycisea.mintlify.app/me/intro) and [Med
 - [FindIT/forgor](https://github.com/Find-IT-UGM/CTF-2026-Soal-Final/tree/main/Cryptography/forgor) </br>
 - [JCC-2026/minimum](https://github.com/arsitektur-jaringan-komputer/jcc-2026/tree/master/jeopardy/Cryptography/minimum) </br>
 - [cybreak-2026/im unraveled](https://github.com/arsitektur-jaringan-komputer/cybreak-2026-ctf/tree/master/crypto/im-unraveled)
+
+## Assistant Lecturer
+- [Data Structure](https://github.com/lab-kcks/modul-strukdat-pbo)
