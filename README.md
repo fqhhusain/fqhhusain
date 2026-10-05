@@ -11,7 +11,6 @@ Take a look at my [portfolio](https://dailycisea.mintlify.app/me/intro) and [Med
 ## Skill
 - Languages : Python (SageMath)
 - Zk-dsl : Circom
-- Blockchain (Solana): Rust, Anchor Framework, Solana CLI
 
 ## College final project
 - [Blockchain](https://github.com/azoraichiga/blockchain-project3-Kelompok7)
